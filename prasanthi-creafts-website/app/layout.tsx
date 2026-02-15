@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Prasanthi Crafts",
-  description: "Prasanthi Crafts - Handcrafted Goods",
+  description: "Prasanthi Crafts",
 };
 
 export default function RootLayout({
